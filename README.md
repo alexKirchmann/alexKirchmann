@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexKirchmann
+- 👀 I’m interested in game-development.
+- 🌱 I’m currently learning a bunch of stuff, beginning with C# and Unity, to the point where it comes to game design and narrative.
+- 💞️ I’m looking to collaborate as Unity-developer or game designer.
+- 📫 Here is my LinkedIn: https://www.linkedin.com/in/oleksandr-ponomarenko-2b96491b8/
